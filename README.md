@@ -1,20 +1,23 @@
 ![👋 Hi, my name is Zedric👾](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👾Welcome Traveler👾
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />    Welcome Traveler    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width=40" />
       </h1>
     </summary>
   </ul>
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.facebook.com/zedric.abejuela" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/zediee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Bettachin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Bl4ckyard" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<a href="https://discord.com/users/anonymous6767" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a><a href="https://www.facebook.com/zedric.abejuela" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a><a href="https://www.instagram.com/zediiee/#" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"></a><a href="https://x.com/Bl4ckyard" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="50"></a>
 
  **<h3 align="center">🚀 Passionate Computer Science student, exploring the world of web development with a focus on front-end technologies. Enthusiastic about creating engaging and dynamic user experiences while continuously expanding my knowledge in the ever-evolving field of technology.</h3>**
- 
+<br>
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
+
 # 💫 About Me:
 💼I'm currently working on: 💻 Something<br>🌱I'm currently learning: How to make a Duck<br>⚡Fun fact:🎢 I once used notepad to make money
 

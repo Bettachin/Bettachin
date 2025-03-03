@@ -4,7 +4,7 @@
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <img src="assets/Welcome.gif" style="width: 1000px; height: auto;">
+      <img src="assets/Welcome2.gif" style="width: 1000px; height: auto;">
     </summary>
   </ul>
 </div>
@@ -22,7 +22,7 @@
 </div>
 
 ## About Me:
-💼I'm currently working on: 💻 Something<br>🌱I'm currently learning: How to make a Duck<br>⚡Fun fact:🎢 I once used notepad to make money
+💼I'm currently working on: 💻 Something<br>🌱I'm currently learning: How to make a Duck<br>⚡Fun fact:🎢 I once made programed while Overindulged
 
 
 <!--## 🌐 Socials:

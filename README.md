@@ -1,10 +1,10 @@
 <!--![👋 Hi, my name is Zedric👾](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)-->
-<img src="assets/Gif3.gif">
+<img src="assets/Gif3.gif" style="width: 1000px; height: auto;">
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />    Welcome Traveler    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width=40" />
+        Kupal Kaba Boss?!
       </h1>
     </summary>
   </ul>

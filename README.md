@@ -1,12 +1,10 @@
-![👋 Hi, my name is Zedric👾](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<!--![👋 Hi, my name is Zedric👾](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)-->
 <!--img src="assets/Gif3.gif" style="width: 1000px; height: auto;"-->
-<!--img src="assets/Normal.gif" style="width: 1000px; height: auto;"-->
+<img src="assets/Normal.gif" style="width: 1000px; height: auto;">
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
-        Welcome to My Profile
-      </h1>
+      <img src="assets/Welcome.gif" style="width: 1000px; height: auto;">
     </summary>
   </ul>
 </div>
